@@ -10,10 +10,6 @@ SWIFT语言很强大，希望我可以坚持下去。
 #### Email
 iforever_5277@outlook.com
 
-#### 隐私政策
-招标工具App[隐私政策](\contents\zbprivacypolicycn.html)   
-养车计App[隐私政策](\contents\carprivacypolicycn.html).
-
 #### 技术支持
 如果您遇到任何问题或需要帮助，请通过以下方式联系我们：  
 Email:iforever_5277@outlook.com  
