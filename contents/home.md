@@ -8,11 +8,11 @@ SWIFT语言很强大，希望我可以坚持下去。
 养车记（该App主要功能是记录汽车信息，方便用户查询和保养和加油记录。）
 
 #### Email
-iforever_5277[at]outlook.com
+iforever_5277@outlook.com
 
 #### 隐私政策
-招标工具App[隐私政策](contents\zbprivacypolicycn.html)   
-养车计App[隐私政策](contents\carprivacypolicycn.html).
+招标工具App[隐私政策](\contents\zbprivacypolicycn.html)   
+养车计App[隐私政策](\contents\carprivacypolicycn.html).
 
 #### 技术支持
 如果您遇到任何问题或需要帮助，请通过以下方式联系我们：  
