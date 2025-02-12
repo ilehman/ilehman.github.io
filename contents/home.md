@@ -1,16 +1,21 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![ilehman](https://img.shields.io/badge/ilehman-github-blue?logo=github)](https://github.com/ilehman)  
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+SWIFT语言很强大，希望我可以坚持下去。  
+目前进行开发的小型App有：  
+招标法规（该App主要功能是展示招标投标相关法律法规，便于招标代理人员及建筑业人员使用的小工具）。    
+养车记（该App主要功能是记录汽车信息，方便用户查询和保养和加油记录。）
 
 #### Email
-sli[at]cumt.edu.cn
+iforever_5277[at]outlook.com
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### 隐私政策
+招标工具App[隐私政策](https\ilehman.github.io\contents\zbprivacypolicycn.html)   
+养车计App[隐私政策](https\ilehman.github.io\contents\carprivacypolicycn.html).
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### 技术支持
+如果您遇到任何问题或需要帮助，请通过以下方式联系我们：  
+Email:iforever_5277@outlook.com  
+微信：iforever_5277  
 
